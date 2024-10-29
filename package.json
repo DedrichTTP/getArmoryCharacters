@@ -1,0 +1,15 @@
+{
+  "name": "getarmorycharacters",
+  "version": "1.0.0",
+  "main": "getCharacter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dedrich",
+  "license": "ISC",
+  "description": "A script to scrape and organize World of Warcraft Armory character data.",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0"
+  }
+}
